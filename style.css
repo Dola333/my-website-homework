@@ -245,3 +245,34 @@ hr {
 .sum-con, .sum-des {
     color:#929191;
 }
+
+
+
+#footer-content {
+    justify-content: space-between;
+    gap:50px;
+    display:flex;
+    background:#FFF8F3 ;
+    padding-right: 320px;
+    margin-bottom: 185px;
+    height:500px;
+}
+
+.con-title {
+    color:#181818;
+    text-align: center;
+    margin-top: 50px;
+    
+    
+}
+
+.con-des {
+    width:532px;
+    height:56px;
+    padding: 10px;
+    margin-top: 0px;
+    margin-left: 332px;
+}
+form {
+    margin-top: 25px;
+}
